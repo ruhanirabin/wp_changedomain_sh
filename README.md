@@ -4,7 +4,7 @@ WordPress Change Domain inside DB using Shell / String Replace in All Occurrence
 A simple Shell Script to Change all WordPress domain name OR String instances
 After the Find and Replace operation, it will be re-imported back to DB
 
-##Can be used for
+## Can be used for
 1. Domain Migration
 2. Update Existing Domain to HTTPS
 3. Find and Replace a string in the whole database
@@ -12,9 +12,9 @@ After the Find and Replace operation, it will be re-imported back to DB
 It keeps an archive file just in case
 
 
-###Basic Usage in console as: 
+### Basic Usage in console as: 
 ```
 sh wpchangedomain.sh
 ```
 
-####from: www.RuhaniRabin.com
+#### from: www.RuhaniRabin.com
