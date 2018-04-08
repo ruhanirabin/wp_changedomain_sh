@@ -20,7 +20,7 @@ It keeps an archive file just in case
 
 ### Basic Usage in console as: 
 ```
-sh wpchangedomain.sh
+sh wp_changedomain.sh
 ```
 
 #### from: www.RuhaniRabin.com
